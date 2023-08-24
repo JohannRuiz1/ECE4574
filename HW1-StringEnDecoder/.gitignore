@@ -72,5 +72,3 @@ CMakeLists.txt.user*
 *.dll
 *.exe
 
-# Build files
-*Desktop_Qt_6_5_2_MinGW_64_bit-Debug/
